@@ -22,7 +22,7 @@ export default class App extends Vue {}
 
 <style scoped lang="scss">
 div[data-app="true"] {
-  background: url("@/assets/M13_final2_sinfirma.jpg") no-repeat center center fixed;
+  background: url("@/assets/background.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 </style>
