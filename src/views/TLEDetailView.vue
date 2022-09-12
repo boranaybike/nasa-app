@@ -18,6 +18,7 @@ export default class TLEDetail extends Vue {}
 
 <style scoped lang="scss">
 .table {
+  padding: 10vh 20vw;
   justify-content: center;
   align-items: center;
   text-align: -webkit-center;

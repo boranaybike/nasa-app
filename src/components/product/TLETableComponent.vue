@@ -18,7 +18,6 @@ export default class TLETable extends Vue {
       sortable: false,
       value: "name",
     },
-    { text: "Type", value: "type" },
     { text: "Date", value: "date" },
     { text: "Line1", value: "line1" },
     { text: "Line2", value: "line2" },
@@ -36,14 +35,3 @@ export default class TLETable extends Vue {
   }
 }
 </script>
-
-<style scoped>
-.mx-auto {
-  background-color: #1e1e1e;
-}
-.context {
-  color: whitesmoke;
-  font-size: 14px;
-  padding: 20px 50px;
-}
-</style>
