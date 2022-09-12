@@ -18,6 +18,7 @@ export default class ApodDetail extends Vue {}
 
 <style scoped lang="scss">
 .detail {
+  padding: 5vh 20vw 10vh;
   justify-content: center;
   align-items: center;
   text-align: -webkit-center;
